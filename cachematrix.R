@@ -1,3 +1,5 @@
+## Jesse Brandon Wheeler
+## May 24,2 015
 ## When deailing with very large files inversion of a Matrix can be a very expensive operation
 ## from a computation perspective.  Caching the inverse of a Matric can help with this repeatedly
 ## costly operation. MakeCacheMatrix and cacheSolve cache the inverse of a matrix. 
